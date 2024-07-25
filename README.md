@@ -7,6 +7,8 @@ This is the smaller brother of [Chatty](https://github.com/LorenzoSiena/chatty),
 
 Best use with [Local Whisper Cat](https://github.com/LorenzoSiena/local_whisper_cat) and [Piper Cat](https://github.com/pazoff/Piper-Cat) for going full vocal and local.
 
+## [WARNING] ARDUINO AND PLATFORMIO CODE WILL BE UPLOADED ON 27 JULY
+
 ## [TODO] Requirements
 
 ## [TODO] Configuration
